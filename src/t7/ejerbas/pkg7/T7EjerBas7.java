@@ -17,6 +17,7 @@ public class T7EjerBas7 {
         // TODO code application logic here
         banco hola = new banco("hola");
         hola.mostrarDatos();
+        System.out.println("hola");
     }
     
 }
