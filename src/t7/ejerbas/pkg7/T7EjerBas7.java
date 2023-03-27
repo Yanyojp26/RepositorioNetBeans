@@ -18,6 +18,7 @@ public class T7EjerBas7 {
         banco hola = new banco("hola");
         hola.mostrarDatos();
         System.out.println("hola");
+        System.out.println("adios")
     }
     
 }
